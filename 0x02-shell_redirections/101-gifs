@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name \*.gif -exec sh -c \ 'identify -format "%[fx:n>1]\n" "$0" | grep -q 1' {} \; -print
+find . -empty | rev | cut -d '/' -f 1 | rev
