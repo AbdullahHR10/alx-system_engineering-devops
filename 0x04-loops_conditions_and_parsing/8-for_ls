@@ -3,5 +3,5 @@
 
 for _ in *
 do
-	echo ${_#*-}
+	echo "${_#*-}"
 done
