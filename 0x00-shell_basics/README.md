@@ -34,14 +34,14 @@ This project contains solutions to various shell scripting tasks as part of the 
 
 <h1>Author</h1>
 
-- 📫 How to reach me **AbdullahH.Ragab10@gmail.com**
+* **Abdullah Hussein**
+**AbdullahH.Ragab10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdullahhr20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahhr20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-hussein-061039280/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-hussein-061039280/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61557152731160" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61557152731160" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@abdullahhussein-fi2qk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdullahhussein-fi2qk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullahhr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullahhr" height="30" width="40" /></a>
+<a href="https://twitter.com/abdullahhr20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahhr20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah-hussein-061039280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-hussein-061039280" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61557152731160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61557152731160" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/abdullahhussein-fi2qk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdullahhussein-fi2qk" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdullahhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullahhr" height="30" width="40" /></a>
 </p>
-
