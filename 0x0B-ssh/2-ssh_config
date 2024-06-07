@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-#Connects to a server without typing a password
-    SendEnv LANG LC_*
-    HashKnownHosts yes
-    GSSAPIAuthentication yes
-    PasswordAuthentication no
-    IdentityFile ~/.ssh/school
