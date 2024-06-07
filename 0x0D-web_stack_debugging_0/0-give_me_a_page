@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-#Initialize server apache
-/etc/init.d/apache2 start
