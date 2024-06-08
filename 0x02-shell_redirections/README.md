@@ -8,6 +8,7 @@ This project contains solutions to various tasks related to shell I/O redirectio
 
 ---
 
+<h1>Content</h1>
 | Task | Files | Description |
 | ----- | ----- | ------ |
 | 0 | [0-hello_world](./0-hello_world) | Script that prints “Hello, World”, followed by a new line to the standard output. |
