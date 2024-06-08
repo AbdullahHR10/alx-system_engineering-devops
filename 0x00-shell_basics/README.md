@@ -9,6 +9,8 @@ This project contains solutions to various shell scripting tasks as part of the 
 
 ---
 
+<h1>Content</h1>
+
 | Task | Files | Description |
 | ----- | ----- | ------ |
 | 0 | [0-current_working_directory](./0-current_working_directory) | Script that prints the absolute path name of the current working directory. |
