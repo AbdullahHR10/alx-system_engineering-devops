@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Displays Best School 10 time, using while loop
-i=1
+i=0
 
-while [ $i -le 10 ]
+while [ $i -lt 10 ]
 do
 echo "Best School"
 i=$(( i+1 ))
