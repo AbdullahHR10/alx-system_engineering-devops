@@ -3,7 +3,8 @@
 # Displays 4 and then bad luck from China for the 4th loop iteration
 # Displays 9 and then bad luck from Japan for the 9th loop iteration
 # Displays 17 and then bad luck from Italy for the 17th loop iteration
-for ((i=1; i<=20; i++))
+i=1
+while [ $i -le 20 ]
 do
 case $i in
 4)
@@ -18,4 +19,5 @@ echo "bad luck from Italy";;
 *)
 echo $i
 esac
+i=$((i+1))
 done
