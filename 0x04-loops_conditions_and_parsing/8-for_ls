@@ -5,8 +5,8 @@
 # Where only the part of the name after the first dash is displayed
 for file in *;
 do
-if [[ $file == "*-*" ]]
+if [[ $file == *-* ]]
 then
-echo "{$file#*-}"
+echo "${file#*-}"
 fi
 done
