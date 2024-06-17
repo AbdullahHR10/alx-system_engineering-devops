@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# Script that kills a process using command kill
-
-kill "$(pgrep -f beyond)"
