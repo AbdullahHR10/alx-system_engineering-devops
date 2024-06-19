@@ -21,7 +21,7 @@ This project encompasses solutions to various tasks centered around regular expr
 | 5 | [5-beginning_and_end.rb](./5-beginning_and_end.rb) | Ruby script that accepts one argument and pass it to a regular expression matching a string that starts with h ends with n and can have any single character in between. |
 | 6 | [6-phone_number.rb](./6-phone_number.rb) | Ruby script that accepts one argument and pass it to a regular expression matching a 10 digit phone number. |
 | 7 | [7-OMG_WHY_ARE_YOU_SHOUTING.rb](./7-OMG_WHY_ARE_YOU_SHOUTING.rb) | Ruby script that accepts one argument and pass it to a regular expression matching only capital letters. |
-| 8 | [100-textme.rb](./100-textme.rb) | Script that outputs the sender phone number or name (including country code if present), The sender phone number or name (including country code if present) and The flags that were used. |
+| 8 | [100-textme.rb](./100-textme.rb) | Ruby Script that outputs the sender phone number or name (including country code if present), The sender phone number or name (including country code if present) and The flags that were used. |
 
 <h1>Author</h1>
 
