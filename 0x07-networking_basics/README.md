@@ -4,7 +4,7 @@
 
 <h1>ALX SE Programme Project Networking basics #0</h1>
 
-
+This project is part of the ALX SE Programme's foundational exploration into networking basics. It includes comprehensive solutions to various tasks covering essential concepts like the OSI model, different network types such as LAN and WAN, and the Internet's pivotal role as a global network. Each task is tackled with dedicated scripts, emphasizing mastery of fundamental networking principles. Participants gain practical skills in MAC addresses, IP addressing (including private and public distinctions in IPv4 and IPv6), TCP/UDP protocols, and the significance of TCP/UDP ports. This hands-on approach ensures proficiency in handling network configurations and troubleshooting using shell scripting techniques.
 
 ---
 
