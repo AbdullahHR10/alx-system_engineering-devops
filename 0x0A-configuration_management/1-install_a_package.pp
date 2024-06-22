@@ -3,7 +3,7 @@ package { 'python3.8':
   ensure   => '3.8.10',
   provider => 'pip3',
 }
-package { 'flash':
+package { 'flask':
   ensure   => '2.1.0',
   provider => 'pip3',
 }
