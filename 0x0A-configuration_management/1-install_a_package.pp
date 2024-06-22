@@ -4,6 +4,6 @@ package { 'python3.8':
   provider => 'pip3',
 }
 package { 'flash':
-  ensure   => 2.1.0,
-  provider => 'pip3,
+  ensure   => '2.1.0',
+  provider => 'pip3',
 }
