@@ -5,7 +5,7 @@
 
 # ALX SE Programme Project 0x06. Regular expression
 
-This project (0x06) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Regular expression and includes various tasks to utilize the information learned.
+This project (0x06) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning regular expression and includes various tasks to utilize the information learned.
 
 ## Ruby code used
 
