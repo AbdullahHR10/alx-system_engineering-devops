@@ -4,7 +4,7 @@
 
 # ALX SE Programme Project Networking basics #0
 
-This project (0x05) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning networking basics and includes various tasks to utilize the information learned
+This project (0x07) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning networking basics and includes various tasks to utilize the information learned
 
 ## Learning Objectives
 ### OSI Model
