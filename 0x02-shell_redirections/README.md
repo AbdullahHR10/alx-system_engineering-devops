@@ -4,7 +4,7 @@
 
 # ALX SE Programme Project 0x02. Shell, I/O Redirections and filters
 
-This project (0x00) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Shell I/O Redirections and filters and includes various tasks to utilize the information learned
+This project (0x02) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Shell I/O Redirections and filters and includes various tasks to utilize the information learned
 
 ## Learning Objectives
 ### Shell, I/O Redirection
