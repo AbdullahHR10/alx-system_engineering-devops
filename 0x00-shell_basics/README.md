@@ -4,7 +4,7 @@
 
 # ALX SE Programme Project 0x00. Shell, basics
 
-This project (0x00) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Shell Basics and includes various tasks
+This project (0x00) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Shell Basics and includes various tasks to utilize the information learned
 
 ## Learning Objectives
 ### General
