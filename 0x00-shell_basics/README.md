@@ -4,12 +4,12 @@
 
 # ALX SE Programme Project 0x00. Shell, basics
 
-This project (0x00) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository.
+This project (0x00) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Shell Basics and includes various tasks related to navigation, file manipulation, and command usage.
 
-### Learning Objectives
+## Learning Objectives
 ### General
-* What does RTFM mean?
-* What is a Shebang
+- Understand the meaning of RTFM.
+- Define what a Shebang is.
 ### What is the Shell
 * What is the shell
 * What is the difference between a terminal and a shell
