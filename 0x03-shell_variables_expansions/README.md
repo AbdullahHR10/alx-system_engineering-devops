@@ -4,7 +4,7 @@
 
 # ALX SE Programme Project 0x03. Shell, init files, variables and expansions
 
-This project (0x00) is part of the alx-system_engineering-devops repository, It focuses on learning Shell init files, variables and expansions and includes various tasks to utilize the information learned
+This project (0x03) is part of the alx-system_engineering-devops repository, It focuses on learning Shell init files, variables and expansions and includes various tasks to utilize the information learned
 
 ## Learning Objectives
 ### General
