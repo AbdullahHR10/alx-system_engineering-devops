@@ -5,7 +5,7 @@
 
 # ALX SE Programme Project 0x04. Loops, conditions and parsing
 
-This project (0x04) is part of the alx-system_engineering-devops repository, It focuses on learning Loops, conditions and parsing and includes various tasks to utilize the information learned
+This project (0x04) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Loops, conditions and parsing and includes various tasks to utilize the information learned
 
 ## Learning Objectives
 ### General
