@@ -5,7 +5,7 @@
 
 # ALX SE Programme Project 0x01. Shell, permissions
 
-This project (0x01) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Shell permissions and includes various tasks
+This project (0x01) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning Shell permissions and includes various tasks to utilize the information learned
 
 ## Learning Objectives
 ### Permissions
