@@ -1,11 +1,12 @@
 # Makes changes to a configuration file using Puppet
-file_line { 'Turn off passwd auth':
-  ensure => 'present',
-  path   => '/etc/ssh/ssh_config',
-  line   => '    PasswordAuthentication no',
-}
-file_line { 'Declare identity file':
-  ensure => 'present',
-  path   => '/etc/ssh/ssh_config',
-  line   => '    IdentityFile ~/.ssh/school',
+class ssh_config {
+  
+  file { '/home/ubuntu/.ssh/config':
+    ensure  => file,
+    owner   => 'ubuntu',
+    group   => 'ubuntu',
+    mode    => '0600',
+    content => template('ssh/config.erb'),
+  }
+
 }
