@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
-# Configures a new ubuntu machine by installing
-# Nginx where it should be listening on port 80
-# Serve a page that would return a Hello World string
-#
+# Installs Nginx on web-01
 
 # Update package lists with minimal output
 sudo apt-get update -y -qq
