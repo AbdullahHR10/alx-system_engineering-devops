@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
-# Installs Nginx
+# Installs Nginx on web-01
+
+# Update package lists
 apt-get update
-apt-get install nginx -y
-service nginx start
+
+# Install Nginx
+apt-get install -y nginx
+
+# Creates index.html that contains "Hello World!"
+echo "Hello World!" > /var/www/html/index.html
+
+# Reload Nginx
+service nginx reload
