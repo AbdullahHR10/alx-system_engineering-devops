@@ -8,7 +8,7 @@ sudo apt-get update
 sudo apt-get install -y nginx
 
 # Creates index.html that contains "Hello World!"
-sudo echo "Hello World" > /var/www/html/index.html
+sudo echo "Hello World!" > /var/www/html/index.html
 
 # Reload Nginx
 sudo service nginx reload
