@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+# Installs Nginx on web-01
+
+# Update package lists with minimal output
+sudo apt-get update -y -qq
+
+# Install Nginx
+sudo apt-get install nginx -y
+
+# Allow Nginx on firewall
+sudo ufw allow 'Nginx HTTP'
+
+# Give the user ownership to website files for easy editing
+sudo chown -R "$USER":"$USER" /var/www/html
+sudo chmod -R 755 /var/www
+
+# Backup default index
+sudo cp /var/www/html/index.nginx-debian.html /var/www/html/index.nginx-debian.html.bckp
+
+# Create index.html that contains "Hello World!"
+echo "Hello World!" > /var/www/html/index.html
+
+# Restart Nginx to apply changes
+sudo service nginx restart
