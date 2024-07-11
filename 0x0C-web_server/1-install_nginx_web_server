@@ -2,13 +2,13 @@
 # Installs Nginx on web-01
 
 # Update package lists
-apt-get update
+sudo apt-get update
 
 # Install Nginx
-apt-get install -y nginx
+sudo apt-get install -y nginx
 
 # Creates index.html that contains "Hello World!"
-echo "Hello World!" > /var/www/html/index.html
+sudo echo "Hello World!" > /var/www/html/index.html
 
 # Reload Nginx
-service nginx reload
+sudo service nginx reload
