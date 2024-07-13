@@ -2,7 +2,7 @@
 # Script that transfers a file from our client to a server
 
 # Assigns parameters to variables
-FILE=$1
+PATH_TO_FILE=$1
 SERVER_IP=$2
 USERNAME=$3
 PATH_TO_SSH_KEY=$4
