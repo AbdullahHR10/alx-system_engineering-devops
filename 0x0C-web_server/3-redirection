@@ -12,10 +12,11 @@ echo 'Hello World!' | sudo tee /var/www/html/index.html
 sudo tee /etc/nginx/sites-available/redirect_me <<EOF
 server {
 	listen 80;
-	server_name abdullahhr.tech
+	server_name abdullahhr.tech;
 
 	location /redirect_me {
-		return 301 www.https://www.google.com;
+		return 301 https://www.google.com;
+	}
 }
 EOF
 
