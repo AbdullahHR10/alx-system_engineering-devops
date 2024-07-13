@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# Script that configures a Nginx server so that /redirect_me is redirecting to another page
+
+# Install nginx
+sudo apt-get update
+sudo apt-get -y install nginx
+
+# Returns a page that contains the string Hello World!
+echo 'Hello World!' | sudo tee /var/www/html/index.html
+
+# Configures /redirect_me to redirect to another page
+sudo tee /etc/nginx/sites-available/redirect_me <<EOF
+server {
+	listen 80;
+	server_name abdullahhr.tech
+
+	location /redirect_me {
+		return 301 www.https://www.google.com;
+}
+EOF
+
+# Create a symbolic link to enable the new site configuration
+sudo ln -s /etc/nginx/sites-available/redirect_me /etc/nginx/sites-enabled/
+
+# Restarts nginx
+sudo service nginx restart
