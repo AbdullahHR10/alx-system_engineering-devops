@@ -9,7 +9,7 @@ sudo apt-get -y install nginx
 echo 'Hello World!' | sudo tee /var/www/html/index.html
 
 # Returns a page that contains the string Ceci n'est pas une page
-echo "Ceci n'est pas une page" > /etc/nginx/html/404.html
+echo "Ceci n'est pas une page" | sudo tee /etc/nginx/html/404.html
 
 # Configures /redirect_me to redirect to another page
 echo "server {
