@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/ALX-white?logo=ALX&logoColor=black) ![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/AbdullahHR10-%230359AE?logo=Github&logoColor=%23000000)
 
-# 0x05. Processes and signals
+# 0x05. Processes and signalss
 This project (0x05) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning processes and signals and includes various tasks to utilize the information learned
 
 ## Learning Objectives
