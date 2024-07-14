@@ -8,10 +8,11 @@ sudo apt-get -y install nginx
 echo 'Hello World!' | sudo tee /var/www/html/index.html
 
 # Configures /redirect_me to redirect to another page
-sudo tee /etc/nginx/sites-available/redirect_me <<EOF
-server {
+echo "server {
 	listen 80;
-	server_name _;
+	listen [::]:80 default_server;
+	root   /etc/nginx/html;
+	index  index.html;
 
 	location / {
 		root /var/www/html;
@@ -21,8 +22,7 @@ server {
 	location /redirect_me {
 		return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;
 	}
-}
-EOF
+}" > /etc/nginx/sites-available/default
 
 # Create a symbolic link to enable the new site configuration
 sudo ln -s /etc/nginx/sites-available/redirect_me /etc/nginx/sites-enabled/
