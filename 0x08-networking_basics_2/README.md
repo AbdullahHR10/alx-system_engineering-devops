@@ -1,4 +1,4 @@
-s![0x08 _Networking_basics_#1](https://github.com/AbdullahHR10/alx-system_engineering-devops/assets/140081525/af577705-9de5-45dc-969b-20d276ded7dd)
+![0x08 _Networking_basics_#1](https://github.com/AbdullahHR10/alx-system_engineering-devops/assets/140081525/af577705-9de5-45dc-969b-20d276ded7dd)
 
 ![Static Badge](https://img.shields.io/badge/ALX-white?logo=ALX&logoColor=black) ![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/AbdullahHR10-%230359AE?logo=Github&logoColor=%23000000)
 
