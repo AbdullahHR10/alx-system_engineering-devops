@@ -1,6 +1,7 @@
 ![0x06 _Regular_expression](https://github.com/AbdullahHR10/alx-system_engineering-devops/assets/140081525/d7849e6b-7229-45cf-8707-9825cc9bc777)
 
-![Static Badge](https://img.shields.io/badge/ALX-white?logo=ALX&logoColor=black) ![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/AbdullahHR10-%230359AE?logo=Github&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/ALX-white?logo=ALX&logoColor=black) ![Static Badge](https://img.shields.io/badge/%E2%80%8ERuby-%23ad0508?logo=ruby&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/AbdullahHR10-%230359AE?logo=Github&logoColor=%23000000)
 
 # 0x06. Regular expression
 
