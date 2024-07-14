@@ -19,8 +19,5 @@ echo "server {
 	}
 }" > /etc/nginx/sites-available/default
 
-# Create a symbolic link to enable the new site configuration
-sudo ln -s /etc/nginx/sites-available/redirect_me /etc/nginx/sites-enabled/
-
 # Restarts nginx
 sudo service nginx restart
