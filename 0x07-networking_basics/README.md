@@ -1,7 +1,7 @@
 ![0x07 _Networking_basics_#0](https://github.com/AbdullahHR10/alx-system_engineering-devops/assets/140081525/3c361660-c29e-4f45-b675-f4c98d2bbc86)
 
 ![Static Badge](https://img.shields.io/badge/ALX-white?logo=ALX&logoColor=black) ![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/AbdullahHR10-%230359AE?logo=Github&logoColor=%23000000)
-s
+
 # Networking basics #0
 
 This project (0x07) is part of the [alx-system_engineering-devops](https://github.com/AbdullahHR10/alx-system_engineering-devops) repository, It focuses on learning networking basics and includes various tasks to utilize the information learned
