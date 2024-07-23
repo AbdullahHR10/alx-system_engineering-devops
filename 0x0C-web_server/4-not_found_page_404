@@ -10,9 +10,6 @@ sudo apt install nginx -y
 # Return a page that contains the string "Hello World!"
 echo "Hello World!" | sudo tee /var/www/html/index.html
 
-# Creates html directory
-mkdir -p /etc/nginx/html
-
 # Returns a page that contains the string Ceci n'est pas une page
 echo "Ceci n'est pas une page" | sudo tee /var/www/html/404.html
 
@@ -29,7 +26,6 @@ echo "server {
 	}
 	error_page 404 /404.html;
 	location = /404.html {
-		root /etc/nginx/html;
 		internal;
 	}
 }" > /etc/nginx/sites-available/default
