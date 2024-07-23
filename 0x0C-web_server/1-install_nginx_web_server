@@ -8,7 +8,7 @@ sudo apt-get update -y
 sudo apt install nginx -y
 
 # Return a page that contains the string "Hello World!"
-echo 'Hello World!' | sudo tee /var/www/html/index.html
+echo "Hello World!" | sudo tee /var/www/html/index.html
 
 # Restart Nginx
 sudo service nginx restart
