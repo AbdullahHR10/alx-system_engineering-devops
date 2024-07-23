@@ -13,7 +13,7 @@ frontend https_front
 	bind *:80
 	default_backend http_back
 
-backend https_back
+backend http_back
 	balance roundrobin
 	server 516976-web-01 35.168.7.34
 	server 516976-web-02 54.173.188.198
