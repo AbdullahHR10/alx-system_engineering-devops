@@ -4,10 +4,13 @@ sudo apt-get update
 # Install ufw
 sudo apt install -y ufw
 
+# Allow ssh
+sudo ufw allow ssh
+
 # Allow Tcp ports
-ufw allow 22/TCP
-ufw allow 443/TCP
-ufw allow 80/TCP
+sudo ufw allow 22/TCP
+sudo ufw allow 443/TCP
+sudo ufw allow 80/TCP
 
 # Enable firewall
-ufw enable
+sudo ufw enable
