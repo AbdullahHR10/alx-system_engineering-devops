@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# Script that configures Nginx so that its HTTP response contains a custom header (on web-01 and web-02)
+
+# Disable shellchec SC2154
+# shellcheck disable=SC2154
+
+# Update package list
+sudo apt-get update -y
+
+# Install Nginx
+sudo apt install nginx -y
+
+# Get the server hostname
+HOSTNAME=$(hostname)
+
+# Configure Nginx so that its HTTP response contains a custom header
+echo "server {
+	listen 80;
+	listen [::]:80 default_server;
+	root /var/www/html;
+	index  index.html;
+	add_header X-Served-By $HOSTNAME;
+	location /redirect_me {
+		return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;
+	}
+	error_page 404 /404.html;
+	location = /404.html {
+		internal;
+	}
+}" > /etc/nginx/sites-available/default
+
+# Set correct permissions and ownership
+sudo chmod -R 755 /var/www/html
+sudo chown -R www-data:www-data /var/www/html
+
+# Restart Nginx
+sudo service nginx restart
