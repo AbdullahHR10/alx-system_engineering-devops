@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """Module that contains count_words function"""
+import requests
 
 
 def count_words(subreddit, word_list, word_count={}, after=None):
